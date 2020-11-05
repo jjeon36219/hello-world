@@ -1,2 +1,2 @@
 # hello-world
-exercise the github at the firstly'
+exercise the github firstly.
